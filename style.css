@@ -1,0 +1,26 @@
+.body {
+    
+}
+.bigdiv{
+    display: flex;
+    
+}
+.left{
+    width: 20%;
+    background-color: #51b9b7;
+    float: left;
+flex-direction: column;
+}
+.right{
+    background-color: #38807e;
+    float: right;
+    flex-direction: column;
+}
+
+img {
+    height: 200px;
+    width: 180px;
+    border: 100%;
+    border-radius: 50%;
+    border-color: blue;
+}
